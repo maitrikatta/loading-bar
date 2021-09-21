@@ -1,0 +1,30 @@
+#btn{
+  width:100px;
+  font-weight:bold;
+  height:30px;
+  border-radius: 2px;
+  box-shadow: 2px 1px 3px black;
+  margin:10px 30%;
+}
+#container{
+  box-sizing: border-box;
+  background-color: rgba(128, 128, 128, 0.5);
+  width:320px;
+  height:300px;
+  border:1px solid green;
+  margin:10px 30%;
+  overflow-y: scroll;
+  text-align: justify;
+  padding: 10px;
+}
+#wrapper{
+  width:320px;
+  margin:10px 30%;
+}
+#loading-bar{
+  width:0%;
+  height:30px;
+  background-color: green;
+  border:1px solid black;
+  border-top:none;
+}
